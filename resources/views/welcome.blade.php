@@ -13,7 +13,7 @@
         <style>
             body {
                 font-family: 'itim', sans-serif;
-                background-color: rgb(233, 212, 206);
+                background-color: rgb(219, 204, 189);
             }
             img {
                 display: block;

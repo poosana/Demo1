@@ -60,9 +60,9 @@ body {
   font-size: 0.9rem;
   font-weight: 400;
   line-height: 1.6;
-  color: #212529;
+  color: rgb(175, 143, 110);
   text-align: left;
-  background-color: rgb(233, 212, 206);
+  background-color: rgb(219, 204, 189);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6181,7 +6181,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: rgb(192, 166, 140) !important;
 }
 
 .bg-transparent {
