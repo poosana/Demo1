@@ -55,7 +55,7 @@
               <ul class="dropdown">
                 <li><a href="#">Gundam</a></li>
                 <li><a href="#">Tokyo Ghoul</a></li>
-                <li><a href="#">kimi no yaiba</a></li>
+                <li><a href="#">Kimetsu no yaiba</a></li>
                 <li><a href="#">One piece</a></li>
               </ul>
             </li>
@@ -126,11 +126,11 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge new">New</span>
-              <img src="images/cloth_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/Godenel.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Kiko Linen Slip Dress, Brown</a></h3>
+            <h3 class="title"><a href="#">God Enel By LX Studio</a></h3>
             <div class="price">
-              <span>£69.00</span>
+              <span>24,900 THB</span>
             </div>
           </div>
         </div>
@@ -138,22 +138,22 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge sale">Sale</span>
-              <img src="images/cloth_2.jpg" alt="Image" class="img-fluid">
+              <img src="images/tokyogou.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Sleeve Dress, White</a></h3>
+            <h3 class="title"><a href="#">Ken Kaneki By Kura Collectibles</a></h3>
             <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
+              <del>25,000 THB</del> &mdash; <span>21,000 THB</span>
             </div>
           </div>
         </div>
         <div class="col-6 col-sm-6 col-md-6 mb-4 col-lg-4">
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
-              <img src="images/watch_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/Nami.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Hodina Watch</a></h3>
+            <h3 class="title"><a href="#">Nami By Mr.J Studio</a></h3>
             <div class="price">
-              <span>£29.00</span>
+              <span>18,000 THB</span>
             </div>
           </div>
         </div>
@@ -162,28 +162,13 @@
 
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
-              <img src="images/shoe_2.jpg" alt="Image" class="img-fluid">
+              <img src="images/giyu.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Triangle Low White-Black</a></h3>
+            <h3 class="title"><a href="#">Giyu & Sabito By The Super Dimension Studio</a></h3>
             <div class="price">
-              <span>£29.00</span>
+              <span>22,000 THB</span>
             </div>
           </div>
-
-        </div>
-        <div class="col-6 col-sm-6 col-md-6 mb-4 col-lg-4">
-
-          <div class="product-item">
-            <a href="shop-single.html" class="product-img">
-              <span class="custom-badge sale">Sale</span>
-              <img src="images/cloth_3.jpg" alt="Image" class="img-fluid">
-            </a>
-            <h3 class="title"><a href="#">Kid Dress, White</a></h3>
-            <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
-            </div>
-          </div>
-
 
         </div>
         <div class="col-6 col-sm-6 col-md-6 mb-4 col-lg-4">
@@ -191,11 +176,26 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge sale">Sale</span>
-              <img src="images/shoe_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/inosuke.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Lady Shoes, Brown</a></h3>
+            <h3 class="title"><a href="#">Inosuke By TNT Studio</a></h3>
             <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
+              <del>14,500 THB</del> &mdash; <span>12,500 THB</span>
+            </div>
+          </div>
+
+
+        </div>
+        <div class="col-6 col-sm-6 col-md-6 mb-4 col-lg-4">
+
+          <div class="product-item">
+            <a href="shop-single.html" class="product-img">
+              <span class="custom-badge sale">Sale</span>
+              <img src="images/tanjiro.jpg" alt="Image" class="img-fluid">
+            </a>
+            <h3 class="title"><a href="#">Tanjiro x Nezuko By Goose Fty Studio</a></h3>
+            <div class="price">
+              <del>7,950 THB</del> &mdash; <span>6,500 THB</span>
             </div>
           </div>
 
@@ -232,11 +232,11 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge new">New</span>
-              <img src="images/cloth_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/netsuko.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Kiko Linen Slip Dress, Brown</a></h3>
+            <h3 class="title"><a href="#">Nezuko By Whale Studio</a></h3>
             <div class="price">
-              <span>£69.00</span>
+              <span>2,800 THB</span>
             </div>
           </div>
         </div> <!-- /.item -->
@@ -244,45 +244,33 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge sale">Sale</span>
-              <img src="images/cloth_2.jpg" alt="Image" class="img-fluid">
+              <img src="images/giant.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Sleeve Dress, White</a></h3>
+            <h3 class="title"><a href="#">Fools Paradise Vinyl series: Chocolate Game</a></h3>
             <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
+              <del>15,000 THB</del> &mdash; <span>10,500 THB</span>
             </div>
           </div>
         </div> <!-- /.item -->
         <div class="item">
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
-              <img src="images/watch_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/pikachu.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Hodina Watch</a></h3>
+            <h3 class="title"><a href="#">Pikachu By Egg Studio</a></h3>
             <div class="price">
-              <span>£29.00</span>
+              <span>7,380 THB</span>
             </div>
           </div>
         </div> <!-- /.item -->
         <div class="item">
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
-              <img src="images/shoe_2.jpg" alt="Image" class="img-fluid">
+              <img src="images/slamdunk.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Triangle Low White-Black</a></h3>
+            <h3 class="title"><a href="#">Sakuragi Hanamichi By ShowHand studio</a></h3>
             <div class="price">
-              <span>£29.00</span>
-            </div>
-          </div>
-        </div> <!-- /.item -->
-        <div class="item">
-          <div class="product-item">
-            <a href="shop-single.html" class="product-img">
-              <span class="custom-badge sale">Sale</span>
-              <img src="images/cloth_3.jpg" alt="Image" class="img-fluid">
-            </a>
-            <h3 class="title"><a href="#">Kid Dress, White</a></h3>
-            <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
+              <span>2,800 THB</span>
             </div>
           </div>
         </div> <!-- /.item -->
@@ -290,11 +278,23 @@
           <div class="product-item">
             <a href="shop-single.html" class="product-img">
               <span class="custom-badge sale">Sale</span>
-              <img src="images/shoe_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/yoda.jpg" alt="Image" class="img-fluid">
             </a>
-            <h3 class="title"><a href="#">Lady Shoes, Brown</a></h3>
+            <h3 class="title"><a href="#">Star Wars The Child (Baby Yoda) Life Size Figure</a></h3>
             <div class="price">
-              <del>£99.00</del> &mdash; <span>£69.00</span>
+              <del>13,500 THB</del> &mdash; <span>11,500 THB</span>
+            </div>
+          </div>
+        </div> <!-- /.item -->
+        <div class="item">
+          <div class="product-item">
+            <a href="shop-single.html" class="product-img">
+              <span class="custom-badge sale">Sale</span>
+              <img src="images/storm.jpg" alt="Image" class="img-fluid">
+            </a>
+            <h3 class="title"><a href="#">Hot Toys – TMS011 – The Mandalorian : Remnant Stormtrooper</a></h3>
+            <div class="price">
+              <del>8,000 THB</del> &mdash; <span>6,400 THB</span>
             </div>
           </div>
         </div> <!-- /.item -->
